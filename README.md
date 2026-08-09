@@ -4,7 +4,7 @@
 - 📫 How to reach me: [My site](https://nsimbatamaku.vercel.app)
 
 
-Hint: nine mysterious shots + AKA
+Hint: nine mysterious shots
 
 <!---
 efrahim20319/efrahim20319 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
